@@ -1,0 +1,12 @@
+﻿  VulkanFunctionPointers.cpp
+  VulkanInitializers.cpp
+  main.cpp
+main.cpp(55): warning C4101: 'height': unreferenced local variable
+main.cpp(55): warning C4101: 'width': unreferenced local variable
+main.cpp(54): warning C4101: 'ratio': unreferenced local variable
+  Generating code
+  2 of 78 functions ( 2.6%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    4 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  VulkanRenderer.vcxproj -> C:\Users\fores\Desktop\VulkanRenderer\x64\Release\VulkanRenderer.exe
