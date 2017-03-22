@@ -1,5 +1,8 @@
-﻿  VulkanInitializers.cpp
-c:\users\fores\desktop\vulkanrenderer\vulkanrenderer\vulkaninitializers.cpp(113): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
-c:\users\fores\desktop\vulkanrenderer\vulkanrenderer\vulkaninitializers.cpp(233): warning C4101: 'swapchainFormatColorSpace': unreferenced local variable
-  VulkanRenderer.vcxproj -> C:\Users\fores\Desktop\VulkanRenderer\x64\Debug\VulkanRenderer.exe
-  VulkanRenderer.vcxproj -> C:\Users\fores\Desktop\VulkanRenderer\x64\Debug\VulkanRenderer.pdb (Full PDB)
+﻿  main.cpp
+  VulkanInitializers.cpp
+c:\users\fores\desktop\vulkan\vulkanrenderer\vulkanrenderer\vulkaninitializers.cpp(113): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+c:\users\fores\desktop\vulkan\vulkanrenderer\vulkanrenderer\vulkaninitializers.cpp(233): warning C4101: 'swapchainFormatColorSpace': unreferenced local variable
+  VulkanFunctionPointers.cpp
+  Generating Code...
+  VulkanRenderer.vcxproj -> C:\Users\fores\Desktop\Vulkan\VulkanRenderer\x64\Debug\VulkanRenderer.exe
+  VulkanRenderer.vcxproj -> C:\Users\fores\Desktop\Vulkan\VulkanRenderer\x64\Debug\VulkanRenderer.pdb (Full PDB)
